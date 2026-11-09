@@ -1,0 +1,9 @@
+[submodule "datasets/fashion-mnist"]
+	path = datasets/fashion-mnist
+	url = https://github.com/th9rain/fashion-mnist.git
+[submodule "datasets/DeepFashion2"]
+	path = datasets/DeepFashion2
+	url = https://github.com/th9rain/DeepFashion2.git
+[submodule "datasets/modanet"]
+	path = datasets/modanet
+	url = https://github.com/th9rain/modanet.git
