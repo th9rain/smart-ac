@@ -1,0 +1,11 @@
+# Local datasets
+/data/deepfashion2/*
+!/data/deepfashion2/.gitkeep
+
+# Locally collected cabin images
+/data/cabin/*
+!/data/cabin/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
